@@ -55,8 +55,8 @@ export const l =
     },
     createIs: {
       title: 'Create new wallet',
-      txt1: '1.Please confirm that you are browsing the HebeBlock chain DEX official website：https://www.exhebe.com',
-      txt2: '2.Once lost, no one, including HebeBlock chain, can help you。',
+      txt1: '1.Please confirm that you are browsing the Ignis chain DEX official website：https://ignisdex.exhebe.com',
+      txt2: '2.Once lost, no one, including Ignis chain, can help you。',
       txt3: '3.A mnemonic is made up of 12 words. It is the way to open your wallet. Please backup and keep your mnemonic。',
       txt4: '4.Please do not share your mnemonic words with others, and do not use mnemonic words on other websites, otherwise your assets will be at risk of theft。',
       cancel: 'Cancel',
@@ -64,7 +64,7 @@ export const l =
     },
     createTokenIs: {
       title: 'The mnemonic that is automatically generated for you is：',
-      txt1: '1.This mnemonic is used to access your HebeBlock account。',
+      txt1: '1.This mnemonic is used to access your Ignis account。',
       txt2: '2.Please write down or remember these 12 words (the order and case-usually lower case)。',
       txt3: '3.请Please do not copy and paste to save the mnemonic, usually hackers can get your mnemonic by obtaining the copy record。',
       txt4: '4.Never reveal your mnemonic. If you lose it you will not be able to access your account ！',
@@ -80,7 +80,7 @@ export const l =
     },
     importIs: {
       title: 'Import Wallet',
-      txt1: '1.Please confirm that you are browsing the official website of HebeBlock chain DEX：https://www.exhebe.com',
+      txt1: '1.Please confirm that you are browsing the official website of Ignis chain DEX：https://ignisdex.exhebe.com',
       txt2: '2.Please do not copy and paste the mnemonic, usually hackers can get your mnemonic by obtaining the copy record。',
       cancel: 'Cancel',
       qr: 'QR code',
@@ -89,7 +89,7 @@ export const l =
     },
     importTokenIs:{
       title:'Please enter mnemonic import',
-      txt1:'1.Please confirm that you are browsing the HebeBlock chain DEX official website：https://www.exhebe.com',
+      txt1:'1.Please confirm that you are browsing the Ignis chain DEX official website：https://ignisdex.exhebe.com',
       txt2:'2.Please do not copy and paste the mnemonic, usually hackers can get your mnemonic by obtaining the copy record。',
       txt3:'3.Please note that typing more spaces in the mnemonic word will result in the successful import of the wrong words, and there will be no import errors.。',
       txt4:'4.Please enter the mnemonic in the input box below',
@@ -98,7 +98,7 @@ export const l =
     },
     importAddrIs:{
       title:'Please enter alias / address import',
-      txt1:'1.Please confirm that you are browsing the HebeBlock chain DEX official website：https://www.exhebe.com',
+      txt1:'1.Please confirm that you are browsing the Ignis chain DEX official website：https://ignisdex.exhebe.com',
       txt2:'2.Please confirm that a transaction has been issued at your address',
       txt3:'3.Please enter an Alias / Address below',
       txt4:'Note: Alias ​​/ Address import needs to be used with mobile wallet',
@@ -107,7 +107,7 @@ export const l =
     },
     importQrIs:{
       title:'QR code into wallet',
-      txt1:'1.Please confirm that you are browsing the official website of HebeBlock chain DEX：https://www.exhebe.com',
+      txt1:'1.Please confirm that you are browsing the official website of Ignis chain DEX：https://ignisdex.exhebe.com',
       txt2:'2.Please open Hebe Wallet\'s QR code to export mnemonics',
       cancel: 'Cancel',
       ok:'Ok',

@@ -54,8 +54,8 @@ export const l =
     },
     createIs: {
       title: '创建新钱包',
-      txt1: '1.请确认您正在浏览 HebeBlock链 DEX官方网站：https://www.exhebe.com',
-      txt2: '2.请务必保管好您的钱包。一旦丢失，包括 HebeBlock链 在内的任何人都没办法帮您恢复。',
+      txt1: '1.请确认您正在浏览 Ignis链 DEX官方网站：https://ignisdex.exhebe.com',
+      txt2: '2.请务必保管好您的钱包。一旦丢失，包括 Ignis链 在内的任何人都没办法帮您恢复。',
       txt3: '3.助记词是由12个单词组成的，是开启你钱包的方式，请备份并保管好您的助记词。',
       txt4: '4.请不要对外分享您的助记词，也不要在其他网站上使用助记词，否则您的资产将有被盗风险。',
       cancel: '取消',
@@ -63,7 +63,7 @@ export const l =
     },
     createTokenIs: {
       title: '自动为您生成的助记词是：',
-      txt1: '1.该助记词用于访问您的 HebeBlock 帐户。',
+      txt1: '1.该助记词用于访问您的 Ignis 帐户。',
       txt2: '2.请写下来或记住这12个单词（它们的顺序和大小写-通常是小写)。',
       txt3: '3.请不要复制粘贴保存助记词，通常黑客可以通过获取复制记录来获取你的助记词。',
       txt4: '4.永远不要透露您的助记词。如果失去它您将无法访问您的帐户 ！',
@@ -79,7 +79,7 @@ export const l =
     },
     importIs: {
       title: '导入钱包',
-      txt1: '1.请确认您正在浏览 HebeBlock链 DEX官方网站：https://www.exhebe.com',
+      txt1: '1.请确认您正在浏览 Ignis链 DEX官方网站：https://ignisdex.exhebe.com',
       txt2: '2.请不要复制粘贴助记词，通常黑客可以通过获取复制记录来获取你的助记词。',
       cancel: '取消',
       qr: '二维码导入',
@@ -88,7 +88,7 @@ export const l =
     },
     importTokenIs:{
       title:'请输入助记词导入',
-      txt1:'1.请确认您正在浏览 HebeBlock链 DEX官方网站：https://www.exhebe.com',
+      txt1:'1.请确认您正在浏览 Ignis链 DEX官方网站：https://ignisdex.exhebe.com',
       txt2:'2.请不要复制粘贴助记词，通常黑客可以通过获取复制记录来获取你的助记词。',
       txt3:'3.请注意助记词多打空格，打错单词都会导入成功，不会出现导入错误的情况。',
       txt4:'4.请将助记词输入在下方输入框',
@@ -97,7 +97,7 @@ export const l =
     },
     importAddrIs:{
       title:'请输入别名/地址导入',
-      txt1:'1.请确认您正在浏览 HebeBlock链 DEX官方网站：https://www.exhebe.com',
+      txt1:'1.请确认您正在浏览 Ignis链 DEX官方网站：https://ignisdex.exhebe.com',
       txt2:'2.请确认你地址已经发出过一笔交易',
       txt3:'3.请在下方输入别名/地址',
       txt4:'注：别名/地址导入，需要配合手机钱包使用',
@@ -106,7 +106,7 @@ export const l =
     },
     importQrIs:{
       title:'二维码导入钱包',
-      txt1:'1.请确认您正在浏览 HebeBlock链 DEX官方网站：https://www.exhebe.com',
+      txt1:'1.请确认您正在浏览 Ignis链 DEX官方网站：https://ignisdex.exhebe.com',
       txt2:'2.请打开Hebe Wallet导出助记词的二维码',
       cancel: '取消',
       ok:'确定导入',

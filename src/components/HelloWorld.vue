@@ -1183,7 +1183,7 @@ margin-top: 4px;
                 balanceNQT: 0,
                 createTokenModel: '',
                 verifyToken: '',
-                contract: 'http://localhost:3000'
+                contract: 'https://ignis.exhebe.com'
             }
         },
         methods: {
